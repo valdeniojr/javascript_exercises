@@ -3,25 +3,25 @@ const dia = 12;
 switch (dia) {
 	case 1:
 		console.log("Domingo");
-		break
+		break;
 	case 2:
 		console.log("Segunda-feira");
-		break
+		break;
 	case 3:
 		console.log("Terça-feira");
-		break
+		break;
 	case 4:
 		console.log("Quarta-feira");
-		break
+		break;
 	case 5:
 		console.log("Quinta-feira");
-		break
+		break;
 	case 6:
 		console.log("Sexta-feira");
-		break
+		break;
 	case 7:
 		console.log("Sábado");
-		break
+		break;
 	default:
 		console.log("Insira um dia da semana válido (1 a 7).");
 }
