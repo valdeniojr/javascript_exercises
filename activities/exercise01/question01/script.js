@@ -1,5 +1,5 @@
 const nome = "Valdênio";
-const idade = 18;
+let idade = 18;
 const gostaDeProgramar = true;
 
 console.log("========== DADOS DO USUÁRIO ==========");
