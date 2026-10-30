@@ -3,10 +3,10 @@ function calcularMedia(nota1, nota2, nota3) {
 	const media = soma / 3;
 
 	if (media >= 7) {
-		return "Aprovado"
+		return "Aprovado";
 	}
 
-	return "Reprovado"
+	return "Reprovado";
 }
 
-console.log(calcularMedia(9, 9, 3))
+console.log(calcularMedia(9, 9, 3));
